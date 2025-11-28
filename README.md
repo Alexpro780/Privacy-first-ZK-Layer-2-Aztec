@@ -1,0 +1,1 @@
+Aztec is a zk-rollup designed to bring encrypted transactions and private smart contracts to Ethereum. It blends privacy guarantees with scalable execution, using zkSNARKs to ensure correctness while protecting user activity.
