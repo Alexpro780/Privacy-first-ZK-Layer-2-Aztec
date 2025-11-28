@@ -6,7 +6,3 @@ Zero-knowledge privacy layer
 Hybrid public/private execution
 
 Strong developer toolkit
-
-vvv
-Private DeFi, confidential payments, identity layers
- zero
